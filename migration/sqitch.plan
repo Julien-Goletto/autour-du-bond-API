@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=autour-du-bond-API
+
+version_1 2022-04-08T16:29:48Z System Administrator <root@MacBook-Air-de-Julien.local> # structure de base
+version_2 2022-04-08T16:30:03Z System Administrator <root@MacBook-Air-de-Julien.local> # seeding
