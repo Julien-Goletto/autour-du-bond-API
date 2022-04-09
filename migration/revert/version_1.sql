@@ -2,6 +2,6 @@
 
 BEGIN;
 
-DROP TABLE "actor","director","movie","episode","podcaster","episode_has_podcaster","rating"
+DROP TABLE "actor","director","movie","episode","podcaster","episode_has_podcaster","rating";
 
 COMMIT;
